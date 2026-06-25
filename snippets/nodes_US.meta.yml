@@ -23,6 +23,14 @@ proxies:
   sni: https://t.me/QiangLieTuiJian
   tls: false
   type: hysteria2
+- name: '🇺🇸US_@QiangLieTuiJian #1'
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: hy5.466688.xyz
+  skip-cert-verify: true
+  sni: https://t.me/WangCai2🇨🇳
+  tls: false
+  type: hysteria2
 - name: 美国|@ripaojiedian
   network: tcp
   password: a844e75e40134ee742e80ced8509b310
