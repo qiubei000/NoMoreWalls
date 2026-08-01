@@ -9,20 +9,10 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 🇩🇪 Telegram= V2RayyNGvpn 🇩🇪3
+- name: 🇩🇪Telegram=V2RayyNGvpn⚡🇩🇪
   obfs: salamander
   obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
-  password: 1Tm8undefinedEG5fl
-  port: 443
-  server: 91.107.178.22
-  skip-cert-verify: true
-  sni: www.refersion.com
-  tls: false
-  type: hysteria2
-- name: 🇩🇪 Telegram= V2RayyNGvpn 🇩🇪4
-  obfs: salamander
-  obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
-  password: 4IGOAN2QIY
+  password: HChdbj6duc
   port: 443
   server: 91.107.178.22
   skip-cert-verify: true
@@ -39,16 +29,6 @@ proxies:
   sni: www.refersion.com
   tls: false
   type: hysteria2
-- name: 🇩🇪 Telegram= V2RayyNGvpn 🇩🇪5
-  obfs: salamander
-  obfs-password: V2RayyNGvpn
-  password: im0McIgBXw
-  port: 43913
-  server: 91.107.178.22
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: 🇩🇪 Telegram= V2RayyNGvpn 🇩🇪6
   obfs: salamander
   obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
@@ -57,24 +37,6 @@ proxies:
   server: 91.107.178.22
   skip-cert-verify: true
   sni: www.refersion.com
-  tls: false
-  type: hysteria2
-- name: 🇩🇪 Telegram= V2RayyNGvpn 🇩🇪2
-  obfs: salamander
-  obfs-password: V2RayyNGvpn
-  password: pBrV8FUdJf
-  port: 43913
-  server: 91.107.178.22
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 👁️‍🗨️16@oneclickvpnkeys
-  password: zhangyang
-  port: 6443
-  server: 130.61.50.75
-  skip-cert-verify: true
-  sni: dash.cloudflare.com
   tls: false
   type: hysteria2
 - client-fingerprint: chrome
