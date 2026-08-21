@@ -15,7 +15,7 @@ proxies:
   sni: deu0003ntrhy01.tcp-reset-club.net
   tls: false
   type: hysteria2
-- name: '德国 #2'
+- name: 🍥75@oneclickvpnkeys
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8080
   server: 85.204.107.169
@@ -86,5 +86,13 @@ proxies:
   port: 37003
   server: 179.61.251.253
   sni: de.jey.cc.cd
+  tls: false
+  type: hysteria2
+- name: 🍥80@oneclickvpnkeys
+  password: V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8
+  port: 443
+  server: player.wwwinternetvideo.click
+  skip-cert-verify: true
+  sni: player.wwwinternetvideo.click
   tls: false
   type: hysteria2
