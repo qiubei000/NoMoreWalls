@@ -613,6 +613,13 @@ proxies:
   sni: fast.wwwinternetvideo.click
   tls: false
   type: hysteria2
+- name: 🇳🇱162336 | ⚡️Telegram = t.me/S...
+  password: CnVfXXvMzh
+  port: 443
+  server: 72.56.92.120
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 🩳96@oneclickvpnkeys
   password: GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_
   port: 443
@@ -630,6 +637,13 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
+- name: 🇳🇱162354 | ⚡️Telegram = t.me/S...
+  password: OD6gGbGU9a
+  port: 443
+  server: 195.133.24.124
+  sni: hys26.wba-pn.ru
+  tls: false
+  type: hysteria2
 - name: 🩳18@oneclickvpnkeys
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
@@ -641,14 +655,6 @@ proxies:
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
   server: 205.237.109.168
-  skip-cert-verify: true
-  sni: hopp-netherland-new.dynuddns.net
-  tls: false
-  type: hysteria2
-- name: ⛑️13@oneclickvpnkeys
-  password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
-  port: 8443
-  server: 205.237.109.174
   skip-cert-verify: true
   sni: hopp-netherland-new.dynuddns.net
   tls: false
@@ -752,16 +758,6 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 🇩🇪@AZARBAYJAB1
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: bfmf6a05bp4fjwuh
-  port: 52022
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: '@v2ray313 کانالمون 😾'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
@@ -777,16 +773,6 @@ proxies:
   obfs-password: fuw2k1ddrouwxr3u
   password: bfmf6a05bp4fjwuh
   port: 52030
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 🇮🇹@AZARBAYJAB1
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: bfmf6a05bp4fjwuh
-  port: 52043
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
@@ -1147,14 +1133,6 @@ proxies:
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 46.229.243.149
-  skip-cert-verify: true
-  sni: grape-turbo-fr.roxa.org
-  tls: false
-  type: hysteria2
-- name: ⛑️15@oneclickvpnkeys
-  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
-  port: 8443
-  server: 46.229.243.152
   skip-cert-verify: true
   sni: grape-turbo-fr.roxa.org
   tls: false
