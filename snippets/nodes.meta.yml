@@ -89,6 +89,14 @@ proxies:
   tls: false
   type: vmess
   uuid: 88888888-8888-8888-8888-888888888888
+- name: 🇷🇺218228 | ⚡️Telegram = t.me/L...
+  password: 41edb44c8e
+  port: 11592
+  server: 103.88.243.142
+  skip-cert-verify: true
+  sni: srv-17e124.21freedom.net
+  tls: false
+  type: hysteria2
 - name: 🇺🇲16@exclavevpn
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
